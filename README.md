@@ -1,1 +1,2 @@
-# AG-E-Commerce-App
+# AG E-Commerce-App
+E-Commerce App for an online clothing store developed using HTML5, CSS3, SASS, JQuery and JQuery UI, PHP7, MySQL and Apache Server. The project is still in the development phase, as it has just recently been started, and it will be updated constantly. The purpose of this project is to extend my web developing skills and to create a better app as I learn new technologies and CSS methodologies. 
